@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "img1": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-pro-finish-select-202409-6-3inch-deserttitanium?wid=5120&hei=2880&fmt=webp&qlt=70",
+            "id": 1,
+            "name": "iphone14",
+            "price": 20000,
+            "category": "mobile",
+            "description": "Latest iPhone 14 with A16 Bionic chip and 48MP camera."
+        },
+        {
+            "img1": "https://th.bing.com/th/id/OIP.FgH8wzk5hOJ6c0w5Jh0VvAHaFK?w=267&h=186&c=7&r=0&o=7",
+            "id": 2,
+            "name": "LGTv",
+            "price": 7000,
+            "category": "tv",
+            "description": "Smart LG TV with 4K UHD resolution and webOS platform."
+        },
+        {
+            "img1": "https://luckyharveywatch.in/cdn/shop/files/0.png?v=1731574917&width=800",
+            "id": 3,
+            "name": "watch",
+            "price": 2000,
+            "category": "watch",
+            "description": "Stylish analog wristwatch with durable strap."
+        },
+        {
+            "img1": "https://th.bing.com/th/id/OIP.FgH8wzk5hOJ6c0w5Jh0VvAHaFK?w=267&h=186&c=7&r=0&o=7",
+            "id": 4,
+            "name": "dell",
+            "price": 20000,
+            "category": "laptop",
+            "description": "Dell Inspiron laptop with 8GB RAM and 512GB SSD."
+        },
+        {
+            "img1": "https://images.moneycontrol.com/static-mcnews/2021/10/Apple-iPhone-13-4.jpg",
+            "id": 5,
+            "name": "iphone13",
+            "price": 21000,
+            "category": "mobile",
+            "description": "Apple iPhone 13 with cinematic mode and super retina display."
+        },
+        {
+            "img1": "https://www.sonatawatches.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwcc09c5fd/images/Sonata/Catalog/7987YM11W_1.jpg",
+            "id": 6,
+            "name": "Titan",
+            "price": 7000,
+            "category": "watch",
+            "description": "Titan Sonata golden strap watch for men."
+        },
+        {
+            "img1": "https://magazine.chrono24.com/cdn-cgi/image/fit=cover,q=65,w=1190,h=595,dpr=2.0/2023/01/Omega-2-1-1.jpg",
+            "id": 7,
+            "name": "sonata",
+            "price": 2000,
+            "category": "watch",
+            "description": "Omega-inspired Sonata watch with classic design."
+        },
+        {
+            "img1": "https://m.media-amazon.com/images/I/41X9qNxoJKL._SX300_SY300_QL70_FMwebp_.jpg",
+            "id": 8,
+            "name": "samsung",
+            "price": 20000,
+            "category": "mobile",
+            "description": "Samsung Galaxy series smartphone with AMOLED display."
+        }
+    ]
+}
